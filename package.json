@@ -1,0 +1,8 @@
+{
+  "name": "u613-face",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "zeus build"
+  }
+}
